@@ -1,1 +1,4 @@
+/* https://askcodez.com/supprimer-la-marge-du-corps-en-css.html */
+*{ margin:  0px;}
 
+*{ padding: 0px;} 
